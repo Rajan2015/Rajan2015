@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/{Rajan2015}/count.svg)
+
 ### Hi there 👋
 
 <!--
@@ -15,9 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitor Count](https://profile-counter.glitch.me/{Rajan2015}/count.svg)
+
 
 - ✨ My name is **Rajan Garg**
 - ✨ I'm a **Full Stack Developer** with 10+ years of experience in developing enterprise applications
-- ✨ **Current Company**: [Tavant](https://www.tavant.com/)
+- 🏢 **Current Company**: [Tavant](https://www.tavant.com/)
+- 🌱 Learning all about **Microfost Azure**
 - ✨ **Competencies**: , C#, .NET Core, .NET 5.0, ASP.NET Web API, JavaScript, Angular 5/6/7/8/9/10/11/12/13 TypeScript, Bootstrap, jQuery, Microsoft Azure, Azure DevOps, Docker, Kubernetes, HTML, CSS, SQL, MongoDB
+
+
+[![Linkedin: Rajan](https://img.shields.io/badge/-Rajan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajan-garg-40a43245/)](https://www.linkedin.com/in/rajan-garg-40a43245/)
+[![GitHub Rajan](https://img.shields.io/github/followers/Rajan2015?label=follow&style=social)](https://github.com/Rajan2015)
