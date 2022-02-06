@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ✨ My name is **Rajan Garg**
+- 🔭 I'm a **Full Stack Developer** with 10+ years of experience in developing enterprise applications
+- ✨ **Current Company**: [Tavant](https://www.tavant.com/)
+- ✨ **Competencies**: , C#, .NET Core, .NET 5.0, ASP.NET Web API, JavaScript, Angular 5/6/7/8/9/10/11/12/13 TypeScript, Bootstrap, jQuery, Microsoft Azure, Azure DevOps, Docker, Kubernetes, HTML, CSS, SQL, MongoDB
