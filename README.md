@@ -1,30 +1,21 @@
-![Visitor Count](https://profile-counter.glitch.me/{Rajan2015}/count.svg)
+**About Me**
+I’m Rajan Garg, a Technical Architect at a product-based tech company, driving scalable solutions across .NET, Python, and cloud-native architectures. I specialize in designing enterprise-grade systems using .NET on Azure, AKS, event-driven architectures, and containerized microservices. I lead architecture reviews and mentor engineering teams, ensuring quality, performance, and long-term maintainability.
 
-### Hi there 👋
+Currently exploring the intersection of AI and productivity. I'm building AI-powered developer tools and domain-specific bots (e.g., Financial Statement Explainer, Contract Analyzer) using OpenAI, RAG, and Vector DBs, with a focus on hallucination reduction and explainability.
 
-<!--
-**Rajan2015/Rajan2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tech Stack & Interests**
+- Backend: .NET 8, Azure Functions (Isolated), gRPC, Python (FastAPI)
+- Cloud & DevOps: Azure, ACR, AKS, Argo CD, GitHub Actions
+- AI/ML: Azure OpenAI, LangChain, Embeddings, Retrieval-Augmented Generation (RAG)
+- Observability: New Relic, OpenTelemetry, Seq, Custom Telemetry Pipelines
+- Patterns: Repository Pattern, Factory Pattern, Circuit Breakers, Retry/Timeout Strategies
 
-Here are some ideas to get you started:
+**Current Focus**
+- Building in public: Sharing real-world AI implementation journeys on LinkedIn
+- Developing open-source tooling to bridge architecture best practices with AI innovation
+- Championing developer productivity through automation and intelligent observability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-- ✨ My name is **Rajan Garg**
-- ✨ I'm a **Full Stack Developer** with 10+ years of experience in developing enterprise applications
-- 🏢 **Current Company**: <a href="https://www.bold.com"><img src="https://www.bold.com/wp-content/themes/centric-pro/images/new-design/bold-logo.svg"></a>
-- 🌱 Learning all about **Microsoft Azure**
-- ✨ **Competencies**: , C#, .NET Core, .NET 5.0, ASP.NET Web API, JavaScript, Angular 5/6/7/8/9/10/11/12/13 TypeScript, Bootstrap, jQuery, Microsoft Azure, Azure DevOps, Docker, Kubernetes, HTML, CSS, SQL, MongoDB
-- ⚡️ Fun fact: I love driving and exploring new places.
+**Current Company**: <a href="https://www.bold.com"><img src="https://www.bold.com/wp-content/themes/centric-pro/images/new-design/bold-logo.svg"></a>
 
 
 [![Linkedin: Rajan](https://img.shields.io/badge/-Rajan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajan-garg-40a43245/)](https://www.linkedin.com/in/rajan-garg-40a43245/)
