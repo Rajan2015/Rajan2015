@@ -1,7 +1,7 @@
 **About Me**
-I’m Rajan Garg, a Technical Architect at a product-based tech company, driving scalable solutions across .NET, Python, and cloud-native architectures. I specialize in designing enterprise-grade systems using .NET on Azure, AKS, event-driven architectures, and containerized microservices. I lead architecture reviews and mentor engineering teams, ensuring quality, performance, and long-term maintainability.
+I’m **Rajan Garg**, a Technical Architect at a product-based tech company, driving scalable solutions across .NET, Python, and cloud-native architectures. I specialize in designing enterprise-grade systems using .NET on Azure, AKS, event-driven architectures, and containerized microservices. I lead architecture reviews and mentor engineering teams, ensuring quality, performance, and long-term maintainability.
 
-Currently exploring the intersection of AI and productivity. I'm building AI-powered developer tools and domain-specific bots (e.g., Financial Statement Explainer, Contract Analyzer) using OpenAI, RAG, and Vector DBs, with a focus on hallucination reduction and explainability.
+Currently exploring the intersection of AI and productivity. I'm building AI-powered developer tools and domain-specific bots using OpenAI, RAG, and Vector DBs, with a focus on hallucination reduction and explainability.
 
 **Tech Stack & Interests**
 - Backend: .NET 8, Azure Functions (Isolated), gRPC, Python (FastAPI)
